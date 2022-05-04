@@ -10,6 +10,6 @@ Example:
 
 Will produce...
 
-```t=Array.new 3000,0;p=0;print t[p].chr;t[p]+=1;while t[p]%256!=0;print t[p].chr;t[p]+=1;end;```
+```t=Array.new 30000,0;p=0;print t[p].chr;t[p]+=1;while t[p]%256!=0;print t[p].chr;t[p]+=1;end;```
 
 Nasty...
