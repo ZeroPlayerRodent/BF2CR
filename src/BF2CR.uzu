@@ -1,10 +1,10 @@
-S#t=Array.new 3000,0;p=0;#RXRRRPPPPIIIAXS
+S#t=Array.new 30000,0;p=0;#RXRRPPPPIIIAXS
                                         K
 RRRRRRRRRRRRRRKBRRRRRBRRRRRRRRRRRRRRRR# B
 R                                     t Q
 R [p]%256!=0;#B#end;#RRRRRRRRRRRRRRRR [ R
 X t                                 R p V
-A   RRRRRRRRRRRRRRRRRRRRRRQXWRRRRRR R ] I
+A   RRRRRRRRRRRRRRRRRRRRRRRQXWRRRRR R ] I
 I e R                             # R + I
 I l R s-will-be-hell-to-debug.-Ei I R = A
 V i R i                         t ' R 1 X
