@@ -2,7 +2,7 @@
 Brainfuck to Crystal compiler! (Written in [Uzumaki](https://esolangs.org/wiki/Uzumaki).)
 
 # Usage
-Paste your brainfuck code (with no newlines) into the terminal, and insert a "!" at the beginning. After hitting enter, the compiler/transpiler will shit out a nasty glob of hellishly unoptimized Crystal code.
+Paste your brainfuck code (with no newlines or whitespace (just to be safe)) into the terminal, and insert a "!" at the beginning. After hitting enter, the compiler/transpiler will shit out a nasty glob of hellishly unoptimized Crystal code.
 
 Example:
 
